@@ -1,2 +1,0 @@
-# qaloon-mushaf
-qaloon mushaf
